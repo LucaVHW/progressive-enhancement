@@ -1,0 +1,34 @@
+body {
+  max-width: 90%;
+  margin-left: 10%;
+  background-image: linear-gradient(#97A3AE, #14375A);
+  background-image: url("https://images.pexels.com/photos/242236/pexels-photo-242236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  background-position: bottom right;
+  background-size: cover;
+}
+p {
+  font-family: serif;
+  letter-spacing: 2px;
+  color: #212121;
+  font-size: 150%;
+}
+.links {
+  font-family: monospace;
+  font-size: 130%;
+}
+a:hover {
+  background-color: grey;
+}
+a:visited {
+  color: green;
+}
+blockquote {
+  width: 50%;
+  margin-left: 20%;
+  font-size: 160%;
+  background-color: lightgrey;
+  border-left: 3px solid black;
+  padding-left: 30px;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
