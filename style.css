@@ -1,9 +1,10 @@
 body {
   max-width: 90%;
-  margin-left: 10%;
+  margin: auto;
   background-image: linear-gradient(#97A3AE, #14375A);
   background-image: url("https://images.pexels.com/photos/242236/pexels-photo-242236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
   background-position: bottom right;
+  background-repeat: no-repeat;
   background-size: cover;
 }
 p {
@@ -27,8 +28,55 @@ blockquote {
   margin-left: 20%;
   font-size: 160%;
   background-color: lightgrey;
-  border-left: 3px solid black;
+  border-left: 3px dashed black;
   padding-left: 30px;
   padding-top: 80px;
   padding-bottom: 80px;
+}
+q {
+  font-style: italic;
+}
+.villagers {
+  border-left: 3px solid green;
+}
+.farmer {
+  border-left: 3px solid red;
+}
+header {
+  background-color: yellow;
+}
+.good {
+  text-transform: uppercase;
+  color: green;
+}
+.bad {
+  text-transform: uppercase;
+  color: red;
+}
+table tr:nth-child(odd) {
+  background-color: grey;
+}
+table tr:nth-child(even) {
+  background-color: lightgrey;
+}
+.img1 {
+  background-image: url(https://github.com/becodeorg/GNK-Holberton-1.9/raw/master/01-De-weide/02-html-css/progressive-enhancement/bien.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  padding-left: 25px;
+}
+.img2 {
+  background-image: url(https://github.com/becodeorg/GNK-Holberton-1.9/raw/master/01-De-weide/02-html-css/progressive-enhancement/bien.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  padding-left: 25px;
+}
+.img3 {
+  background-image: url(https://github.com/becodeorg/GNK-Holberton-1.9/raw/master/01-De-weide/02-html-css/progressive-enhancement/chat.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  padding-left: 25px;
+}
+#first {
+  font-weight: bold;
 }
