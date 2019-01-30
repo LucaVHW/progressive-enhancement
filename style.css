@@ -6,6 +6,7 @@ body {
   background-position: bottom right;
   background-repeat: no-repeat;
   background-size: cover;
+  font-family: 'Noto Serif SC', serif;
 }
 p {
   font-family: serif;
@@ -79,4 +80,28 @@ table tr:nth-child(even) {
 }
 #first {
   font-weight: bold;
+}
+.alex {
+  float:left;
+  writing-mode: tb-rl;
+}
+.notification {
+  background:#FFFFDD;
+  padding:.5rem 1rem;
+  border:3px solid #DDDDCC;
+  width:250px;
+  font-weight:bold;
+  color: #333300;
+  position: absolute;
+  top: 500px;
+  left: 500px;
+}
+#noti {
+  font-size: 20px;
+}
+h1 {
+  font-family: serif;
+}
+h2 {
+  font-family: serif;
 }
