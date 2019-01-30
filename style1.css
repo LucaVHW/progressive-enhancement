@@ -1,0 +1,185 @@
+body {
+  margin: 0;
+  font-family: 'PT Sans', sans-serif;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  position: relative;
+  left: 120px;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 90%;
+}
+#login {
+  float: right;
+  position: relative;
+  right: 220px;
+}
+#img1 {
+  position: relative;
+  width: 40px;
+  height: 40px;
+  float: right;
+  right: 200px;
+  top: 3px;
+}
+.head1 {
+  background-color: #48A6D6;
+  padding: 100px;
+}
+#plug {
+  color: white;
+  text-align: center;
+}
+.start {
+  text-align: center;
+  border: 2px solid white;
+  padding: 10px;
+  background-color: orange;
+  font-size: 20px;
+  border-radius: 8px;
+  text-decoration: none;
+  color: white;
+  font-size: 150%;
+  display: inline-block;
+  font-weight: 600;
+  position: relative;
+  left: 400px;
+}
+.panel {
+  background-color: white;
+  padding: 7px;
+  text-align: center;
+}
+.head2 {
+  background-color: #48A6D6;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 80px;
+  color: white;
+  display: grid;
+  grid-template-areas:
+  'card card2'
+  'card1 card3';
+}
+.card {
+  width: 500px;
+}
+.card2 {
+  width: 500px;
+}
+.card1 {
+  width: 500px;
+}
+.card3 {
+  width: 500px;
+}
+.panel2 {
+  background-color: white;
+  padding: 7px;
+  text-align: center;
+  color: #6E6A6A;
+}
+.head3 {
+  background-color: lightgrey;
+  padding: 80px;
+  display: grid;
+  grid-template-areas: 'logo1 logo2 logo3 logo4 logo5 logo6';
+}
+img {
+  height: 60px;
+}
+.logo1 {grid-area: logo1;}
+.logo2 {grid-area: logo2;}
+.logo3 {grid-area: logo3;}
+.logo4 {grid-area: logo4;}
+.logo5 {grid-area: logo5;}
+.logo6 {grid-area: logo6;}
+.product {
+  position: relative;
+  left: 430px;
+  height: 120px;
+}
+.head4 {
+  background-color: white;
+  padding: 100px;
+}
+.docs {
+  text-align: center;
+  border: 2px solid white;
+  padding: 10px;
+  padding-left: 50px;
+  padding-right: 50px;
+  background-color: #405F96;
+  font-size: 20px;
+  border-radius: 8px;
+  text-decoration: none;
+  color: white;
+  font-size: 150%;
+  display: inline-block;
+  font-weight: 600;
+  position: relative;
+  left: 300px;
+}
+.api {
+  text-align: center;
+  border: 2px solid white;
+  padding: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  background-color: #405F96;
+  font-size: 20px;
+  border-radius: 8px;
+  text-decoration: none;
+  color: white;
+  font-size: 150%;
+  display: inline-block;
+  font-weight: 600;
+  position: relative;
+  left: 300px;
+}
+.start2 {
+  text-align: center;
+  border: 2px solid white;
+  padding: 10px;
+  background-color: orange;
+  font-size: 20px;
+  border-radius: 8px;
+  text-decoration: none;
+  color: white;
+  font-size: 150%;
+  display: inline-block;
+  font-weight: 600;
+  position: relative;
+  left: 300px;
+}
+#yeet {
+  color: white;
+  float: right;
+  position: relative;
+  right: 20px;
+  font-size: 80%;
+}
+.hm {
+  display: block;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  position: relative;
+  left: -120px;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 90%;
+}
