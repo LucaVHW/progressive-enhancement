@@ -225,7 +225,7 @@ input[type=text], select {
   padding: 12px 20px;
   margin: 8px 0;
   display: inline-block;
-  border: 1px solid #ccc;
+  border: 1px solid grey;
   border-radius: 4px;
   box-sizing: border-box;
 }
@@ -237,14 +237,13 @@ input[type=text], select {
   padding: 8px 16px;
   border: 1px solid black;
   border-radius: 4px;
-  position: relative;
-  left: 120px;
-}
-#hope {
-  position: relative;
-  left: 140px;
 }
 #your {
   font-size: 90%;
   color: #414543;
+}
+.head10 {
+  background-color: #333;
+  padding: 20px;
+  text-align: center;
 }
