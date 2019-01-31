@@ -274,8 +274,10 @@ input[type=text], select {
   font-size: 90%;
   color: #414543;
 }
-.head10 {
+.footer {
   background-color: #333;
-  padding: 20px;
-  text-align: center;
+  padding: 5px;
+  color: white;
+  font-size: 90%;
+  text-align: right;
 }
