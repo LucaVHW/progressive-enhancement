@@ -167,3 +167,18 @@ li a {
   width: 700px;
   font-size: 80%;
 }
+.head7 {
+  padding: 10px;
+  background-color: #EAECF7;
+  display: grid;
+  justify-content: space-evenly;
+  grid-template-areas:
+  'logo1 logo2 logo3 logo4 logo5 logo6 logo7 logo8';
+}
+.head8 {
+  padding: 10px;
+  background-color: white;
+  text-align: center;
+  font-size: 140%;
+  font-family: 'Raleway', sans-serif;
+}
