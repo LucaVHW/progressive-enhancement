@@ -56,14 +56,17 @@ li a {
 .card2 {
   width: 310px;
   text-align: center;
+  border-left: 1px solid black;
 }
 .card3 {
   width: 310px;
   text-align: center;
+  border-left: 1px solid black;
 }
 .card4 {
   width: 310px;
   text-align: center;
+  border-left: 1px solid black;
 }
 .img2 {
   height: 60px;
@@ -181,4 +184,67 @@ li a {
   text-align: center;
   font-size: 140%;
   font-family: 'Raleway', sans-serif;
+  display: grid;
+  justify-content: center;
+}
+.panel4 {
+  width: 700px;
+}
+#hm3 {
+  font-size: 80%;
+}
+.head9 {
+  padding: 10px;
+  background-color: white;
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  display: grid;
+  justify-content: center;
+}
+.panel5 {
+  background-color: #E0EDE8;
+  padding: 15px;
+  width: 450px;
+  border: 1px solid black;
+  border-radius: 3px;
+}
+.name {
+  font-weight: bold;
+  font-size: 110%;
+}
+.mail {
+  font-weight: bold;
+  font-size: 110%;
+}
+.password {
+  font-weight: bold;
+  font-size: 110%;
+}
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+#start {
+  width: 40%;
+  text-decoration: none;
+  background-color: #528CA6;
+  color: white;
+  padding: 8px 16px;
+  border: 1px solid black;
+  border-radius: 4px;
+  position: relative;
+  left: 120px;
+}
+#hope {
+  position: relative;
+  left: 140px;
+}
+#your {
+  font-size: 90%;
+  color: #414543;
 }
