@@ -1,0 +1,108 @@
+body {
+  margin: 0;
+}
+#img1 {
+  height: 40px;
+  float: left;
+  position: relative;
+  top: 12px;
+  left: 10px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #EAECF7;
+}
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 24px 20px;
+  text-decoration: none;
+  position: relative;
+  left: 10px;
+  font-family: sans-serif;
+  font-size: 90%;
+}
+.link1 {
+  float: right;
+}
+.head1 {
+  padding: 10px;
+  background-color: #EAECF7;
+  text-align: center;
+  font-size: 250%;
+  font-family: 'Raleway', sans-serif;
+}
+.head2 {
+  padding: 15px;
+  padding-top: 80px;
+  background-color: #333;
+  font-family: 'Raleway', sans-serif;
+  display: grid;
+  justify-content: space-evenly;
+  grid-template-areas:
+  'card1 card2 card3 card4';
+}
+.card1 {
+  width: 310px;
+  text-align: center;
+}
+.card2 {
+  width: 310px;
+  text-align: center;
+}
+.card3 {
+  width: 310px;
+  text-align: center;
+}
+.card4 {
+  width: 310px;
+  text-align: center;
+}
+.img2 {
+  height: 60px;
+}
+.hTitle {
+  color: white;
+}
+.hInfo {
+  color: lightgrey;
+}
+.head3{
+  padding: 10px;
+  background-color: #EAECF7;
+  text-align: center;
+  font-size: 250%;
+  font-family: 'Raleway', sans-serif;
+  display: grid;
+  justify-content: center;
+  overflow: hidden;
+}
+.panel {
+  width: 700px;
+  text-align: center;
+  font-size: 50%
+}
+#hm {
+  text-decoration: none;
+  padding: 10px 30px;;
+  background-color: #528CA6;
+  color: white;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+#hm2 {
+  font-size: 60%;
+  padding-top: 10px;
+}
+#img3 {
+  height: 600px;
+  position: relative;
+  right: 140px;
+}
