@@ -13,7 +13,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #EAECF7;
+  background-color: lavender;
 }
 li {
   float: left;
@@ -58,7 +58,7 @@ li a {
   padding-left: 10px;
   border: 1px solid black;
   border-radius: 5px 0px 0px 5px;;
-  background-color: #528CA6;
+  background-color: cornflowerblue;
   text-decoration: none;
   color: white;
   font-family: 'Raleway', sans-serif;
@@ -66,7 +66,7 @@ li a {
 }
 .head1 {
   padding: 10px;
-  background-color: #EAECF7;
+  background-color: lavender;
   text-align: center;
   font-size: 250%;
   font-family: 'Raleway', sans-serif;
@@ -88,17 +88,14 @@ li a {
 .card2 {
   width: 310px;
   text-align: center;
-  border-left: 1px solid black;
 }
 .card3 {
   width: 310px;
   text-align: center;
-  border-left: 1px solid black;
 }
 .card4 {
   width: 310px;
   text-align: center;
-  border-left: 1px solid black;
 }
 .img2 {
   height: 60px;
@@ -111,7 +108,7 @@ li a {
 }
 .head3{
   padding: 10px;
-  background-color: #EAECF7;
+  background-color: lavender;
   text-align: center;
   font-size: 250%;
   font-family: 'Raleway', sans-serif;
@@ -127,7 +124,7 @@ li a {
 #hm {
   text-decoration: none;
   padding: 10px 30px;;
-  background-color: #528CA6;
+  background-color: cornflowerblue;
   color: white;
   border: 1px solid black;
   border-radius: 5px;
@@ -180,7 +177,7 @@ li a {
 .pricing {
   text-decoration: none;
   padding: 5px 20px;;
-  background-color: #4598D1;
+  background-color: cornflowerblue;
   color: white;
   border: 1px solid black;
   border-radius: 5px;
@@ -191,7 +188,7 @@ li a {
 }
 .head6 {
   padding: 20px;
-  background-color: #EAECF7;
+  background-color: lavender;
   text-align: center;
   font-size: 150%;
   font-family: 'Raleway', sans-serif;
@@ -204,7 +201,7 @@ li a {
 }
 .head7 {
   padding: 10px;
-  background-color: #EAECF7;
+  background-color: lavender;
   display: grid;
   justify-content: space-evenly;
   grid-template-areas:
@@ -234,7 +231,7 @@ li a {
   justify-content: center;
 }
 .panel5 {
-  background-color: #E0EDE8;
+  background-color: lavender;
   padding: 15px;
   width: 450px;
   border: 1px solid black;
@@ -274,7 +271,7 @@ input[type=password], select {
 #start {
   width: 40%;
   text-decoration: none;
-  background-color: #528CA6;
+  background-color: cornflowerblue;
   color: white;
   padding: 8px 16px;
   border: 1px solid black;
