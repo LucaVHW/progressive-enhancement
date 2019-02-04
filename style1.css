@@ -97,6 +97,7 @@ li a {
 .head3 {
   background-color: #F2EBE8;
   padding: 60px;
+  text-align: center;
   display: grid;
   grid-template-areas:
   'logo1 logo2 logo3 logo4 logo5 logo6';
