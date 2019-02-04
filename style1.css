@@ -71,6 +71,7 @@ li a {
   padding-left: 80px;
   color: white;
   display: grid;
+  justify-content: space-evenly;
   grid-template-areas:
   'card card2'
   'card1 card3';
