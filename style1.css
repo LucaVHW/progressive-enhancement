@@ -107,7 +107,7 @@ img {
 .product {
   height: 120px;
   position: relative;
-  left: 100px;
+  left: 50%;
 }
 .head4 {
   background-color: white;
